@@ -1,6 +1,4 @@
-from re import S
-##calculates fft by DIT O(nlogn) complexity
-
+#calculates fft by DIT O(nlogn) complexity
 import cmath
 import numpy as np
 from random import randint
